@@ -15,18 +15,23 @@ Technologies Used
 FRONTEND :
 
 HTML5 – Semantic markup for structure
+
 CSS3 – Flexbox/Grid layout, animations, responsive design
+
 JavaScript (Vanilla) – DOM manipulation, localStorage, search/filter logic, modal handling
 
 BACKEND :
 
 Node.js & Express – REST API for recipes
+
 MySQL – Storing recipe data and favorites
-Deployment / Hosting:
-Vercel or GitHub Pages – For live demo hosting
+
 Tools & Utilities:
+
 VS Code – Code editor
+
 Live Server – Local preview of frontend
+
 Postman – Testing backend APIs
 
 ## 🌟 Features
