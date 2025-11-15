@@ -8,13 +8,13 @@
 
 ## 🚀 Live Demo
 
-Check out the live website here: [**FoodFusion Demo**](https://your-demo-link.vercel.app)  
+Check out the live website here: [**FoodFusion Demo**](https://v0-food-fusion-recipe-finder.vercel.app/  
 *(Replace the link above with your deployed site URL.)*
 
 ---
 Technologies Used
 
-Frontend:
+FRONTEND :
 
 HTML5 – Semantic markup for structure
 
@@ -22,7 +22,7 @@ CSS3 – Flexbox/Grid layout, animations, responsive design
 
 JavaScript (Vanilla) – DOM manipulation, localStorage, search/filter logic, modal handling
 
-Backend (Optional):
+BACKEND :
 
 Node.js & Express – REST API for recipes
 
@@ -51,6 +51,3 @@ Postman (optional) – Testing backend APIs
 - **Smooth Animations**: Card hover effects, modal fade-in/out, and favorites toggle.  
 
 ---
-
-## 📂 Project Structure
-
