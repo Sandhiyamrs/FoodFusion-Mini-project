@@ -1,47 +1,73 @@
-# 🍴 FoodFusion – Interactive Recipe Finder Web App
+📊 Smart Expense – AI Budget Predictor
 
-**FoodFusion** is a modern, responsive web application that allows users to **search, filter, and explore delicious recipes** by ingredients and type. Built using **HTML, CSS, and JavaScript**, it features interactive recipe cards, modals, favorites, and a smooth, mobile-friendly design.
+Smart Expense is a clean, modern web app that helps users track daily expenses, view spending trends, and predict overspending using smart AI logic. Built with React, TailwindCSS, and Recharts, it offers dashboards, alerts, predictions, and a fully responsive interface.
 
----
+🚀 Live Demo
 
----
+👉 SmartExpense Demo (Add your Vercel link)
 
-## 🚀 Live Demo
+🛠️ Technologies Used
+Frontend
 
-Check out the live website here: [**FoodFusion Demo**](https://v0-food-fusion-recipe-finder.vercel.app/  
+⚛️ React (Vite) – Component-based UI
 
-Technologies Used
+🎨 TailwindCSS – Styling & responsive design
 
-FRONTEND :
+📊 Recharts – Charts & visualizations
 
-HTML5 – Semantic markup for structure
+✨ Framer Motion – Smooth animations
 
-CSS3 – Flexbox/Grid layout, animations, responsive design
+🔄 React Router – Page navigation
 
-JavaScript (Vanilla) – DOM manipulation, localStorage, search/filter logic, modal handling
+Backend (Optional / Future)
 
-BACKEND :
+🐍 Python + FastAPI – AI prediction API
 
-Node.js & Express – REST API for recipes
+📈 Prophet / Linear Regression – Forecasting
 
-MySQL – Storing recipe data and favorites
+🗄️ MySQL / MongoDB – Data storage
 
-Tools & Utilities:
+Tools
 
-VS Code – Code editor
+💻 VS Code • 🔍 Postman • 🌐 Vercel • 📝 GitHub
 
-Live Server – Local preview of frontend
+🌟 Features
+📂 File Upload
 
-Postman – Testing backend APIs
+Upload bank SMS/expense logs in .txt, .csv, .json.
 
-## 🌟 Features
+🏷️ Auto-Categorization
 
-- **Recipe Cards**: Show recipe image, title, and key ingredients.  
-- **Search Recipes**: Enter one or multiple ingredients to find matching recipes.  
-- **Type Filter**: Filter recipes by type (Pizza, Soup, Pasta, Salad, Bread).  
-- **Modal Popup**: Click "View" to see full recipe details including instructions.  
-- **Favorites**: Add/remove favorite recipes; favorites are saved using `localStorage`.  
-- **Responsive Design**: Works perfectly on mobile, tablet, and desktop.  
-- **Smooth Animations**: Card hover effects, modal fade-in/out, and favorites toggle.  
+Detects: 🍔 Food, 🛍️ Shopping, 🚕 Travel, 💡 Bills, 🎉 Others.
 
----
+📊 Interactive Dashboards
+
+Line chart → Daily trends
+
+Bar chart → Monthly spend
+
+Pie chart → Category distribution
+
+🔔 AI Predictions & Alerts
+
+Overspending date prediction
+
+Budget risk levels
+
+Financial health score
+
+🧾 Expense Table
+
+View logs with date, amount, category + filters.
+
+⭐ Smart Recommendations
+
+AI tips to improve budgeting habits.
+
+📱 Responsive UI
+
+Works on mobile, tablet, and desktop.
+
+✨ Smooth Animations
+
+Card hovers, transitions, chart reveals, alerts.
