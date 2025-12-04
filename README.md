@@ -1,10 +1,12 @@
 ## 📊 Smart Expense – AI Budget Predictor
 
 **Smart Expense** is a clean, modern web app that helps users track daily expenses, view spending trends, and predict overspending using smart AI logic. Built with React, TailwindCSS, and Recharts, it offers dashboards, alerts, predictions, and a fully responsive interface.
----
 
+---
 🚀 Live Demo
 👉 SmartExpense Demo (Add your Vercel link)
+
+👉 GitHub Repository: https://github.com/Sandhiyamrs/project-Instagram-Automation.git
 ---
 
 ## 🛠️ Technologies Used
@@ -26,6 +28,33 @@
 
 ## Tools
 -💻 VS Code • 🔍 Postman • 🌐 Vercel • 📝 GitHub
+
+---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/home.jpg)
+
+### ⚙ Explore flavors Page
+[(image explore flavors.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/explore-flavors.jpg)
+
+### 🎨 login Page
+[(image login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/login.jpg)
+
+### ⚙ featured scoops Page
+[(image featured scoops.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/featured-scoops.jpg)
+
+### ⚙ scoops brands Page
+[(image scoops brands.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/scoops-brands.jpg)
+
+### ⚙ Cart Page
+[(image cart.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/cart.jpg)
+
+### ⚙ place order Page
+[(image place order.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/place-order.jpg)
+
+### ⚙ order confirmation Page
+[(image order-confirmation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/order-confirmation.jpg)
 
 ---
 
