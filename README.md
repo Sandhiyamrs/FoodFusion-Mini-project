@@ -18,7 +18,7 @@
 -✨ Framer Motion – Smooth animations
 -🔄 React Router – Page navigation
 
-#Backend (Optional / Future)
+#Backend 
 
 -🐍 Python + FastAPI – AI prediction API
 -📈 Prophet / Linear Regression – Forecasting
@@ -33,28 +33,22 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/home.jpg)
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/home.jpg)
 
 ### ⚙ Explore flavors Page
-[(image explore flavors.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/explore-flavors.jpg)
+[(image explore flavors.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/explore-flavors.jpg)
 
 ### 🎨 login Page
-[(image login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/login.jpg)
+[(image login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/login.jpg)
 
 ### ⚙ featured scoops Page
-[(image featured scoops.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/featured-scoops.jpg)
+[(image featured scoops.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/featured-scoops.jpg)
 
 ### ⚙ scoops brands Page
-[(image scoops brands.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/scoops-brands.jpg)
+[(image scoops brands.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/scoops-brands.jpg)
 
 ### ⚙ Cart Page
-[(image cart.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/cart.jpg)
-
-### ⚙ place order Page
-[(image place order.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/place-order.jpg)
-
-### ⚙ order confirmation Page
-[(image order-confirmation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/order-confirmation.jpg)
+[(image cart.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/cart.jpg)
 
 ---
 
