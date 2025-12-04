@@ -38,20 +38,23 @@
 ### 🏠 Home Page
 [(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/home.jpg)
 
-### ⚙ Explore flavors Page
-[(image explore flavors.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/explore-flavors.jpg)
+### ⚙ Budget-Prediction Page
+[(image Budget-Prediction.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Budget-Prediction.jpg)
 
-### 🎨 login Page
-[(image login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/login.jpg)
+### 🎨Category-Distribution Page
+[(image Category-Distribution.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Category-Distribution.jpg)
 
-### ⚙ featured scoops Page
-[(image featured scoops.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/featured-scoops.jpg)
+### ⚙ Daily-Trend Page
+[(image Daily-Trend.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Daily-Trend.jpg)
 
-### ⚙ scoops brands Page
-[(image scoops brands.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/scoops-brands.jpg)
+### ⚙ Parsed-Expenses Page
+[(image Parsed-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Parsed-Expenses.jpg)
 
-### ⚙ Cart Page
-[(image cart.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/cart.jpg)
+### ⚙ Upload-Expenses Page
+[(image Upload-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Upload-Expenses.jpg)
+
+### ⚙Recommendations Page
+[(image Recommendations.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Recommendations.jpg)
 
 ---
 
