@@ -3,12 +3,15 @@
 **Smart Expense** is a clean, modern web app that helps users track daily expenses, view spending trends, and predict overspending using smart AI logic. Built with React, TailwindCSS, and Recharts, it offers dashboards, alerts, predictions, and a fully responsive interface.
 
 ---
-🚀 Live Demo
-👉 SmartExpense Demo (Add your Vercel link)
+🔗 Live Demo
 
-👉 GitHub Repository: https://github.com/Sandhiyamrs/project-Instagram-Automation.git
+👉 Website:https://v0-smart-expense-react-ui.vercel.app/
+
+👉 GitHub Repository: https://github.com/Sandhiyamrs/FoodFusion-Mini-project.git
+
 ---
 
+## 🌈 Features
 ## 🛠️ Technologies Used
 #Frontend
 
