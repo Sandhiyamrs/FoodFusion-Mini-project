@@ -34,25 +34,39 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Budget-Prediction Page
-[(image Budget-Prediction.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Budget-Prediction.jpg)
+<p align="center">
+  <img src="assets/Budget-Prediction.jpg" width="800"/>
+</p>
 
 ### 🎨Category-Distribution Page
-[(image Category-Distribution.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Category-Distribution.jpg)
+<p align="center">
+  <img src="assets/Category-Distribution.jpg" width="800"/>
+</p>
 
 ### ⚙ Daily-Trend Page
-[(image Daily-Trend.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Daily-Trend.jpg)
+<p align="center">
+  <img src="assets/Daily-Trend.jpg" width="800"/>
+</p>
 
 ### ⚙ Parsed-Expenses Page
-[(image Parsed-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Parsed-Expenses.jpg)
+<p align="center">
+  <img src="assets/Parsed-Expenses.jpg" width="800"/>
+</p>
 
 ### ⚙ Upload-Expenses Page
-[(image Upload-Expenses.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Upload-Expenses.jpg)
+<p align="center">
+  <img src="assets/Upload-Expenses.jpg" width="800"/>
+</p>
 
 ### ⚙Recommendations Page
-[(image Recommendations.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/FoodFusion-Mini-project/main/assets/Recommendations.jpg)
+<p align="center">
+  <img src="assets/Recommendations.jpg" width="800"/>
+</p>
 
 ---
 
